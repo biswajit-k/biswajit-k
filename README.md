@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently exploring Reactjs
 - 💬 Ask me about WebDev and any tech related stuff
-- ✨ Looking forward to make open source contributions
+- ✨ Looking forward to explore AI/ML and make open source contributions
 - ⚡ Fun fact: I play guitar in my free time
 
 ![Biswajit Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biswajit-k&theme=great-gatsby&show_icons=true)
