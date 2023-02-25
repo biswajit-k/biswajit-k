@@ -1,6 +1,7 @@
-![Header](./github-header-image.png)
 
-- 🌱 I’m currently exploring Reactjs
+### Hello, I am Biswajit Kaushik 👋
+
+- 🌱 I’m looking to collaborate on cool openSource projects
 - 💬 Ask me about WebDev and any tech related stuff
 - ✨ Looking forward to explore AI/ML and make open source contributions
 - ⚡ Fun fact: I play guitar in my free time
