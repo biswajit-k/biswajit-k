@@ -1,7 +1,7 @@
 # Hi I'm Biswajit 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-biswajit_kaushik-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biswajit-kaushik-51b024203/)](https://www.linkedin.com/in/biswajit-kaushik-51b024203/)
-[![Website Badge](https://img.shields.io/badge/-biswajit.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=biswajit.me)](https://biswajit.me)
+<!-- [![Website Badge](https://img.shields.io/badge/-biswajit.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=biswajit.me)](https://biswajit.me) -->
 [![Gmail Badge](https://img.shields.io/badge/-biswajitkaushik02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:biswajitkaushik02@gmail.com)](mailto:biswajitkaushik02@gmail.com)
 
 
